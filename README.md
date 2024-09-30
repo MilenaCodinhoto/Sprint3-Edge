@@ -4,7 +4,7 @@
 <p>O SpeedSense é um projeto de medição de velocidade utilizando o microcontrolador Arduino Uno e um sensor de ultrassom HC-SR04. Este projeto é ideal para aprender e aplicar conceitos de eletrônica e programação, além de ser uma ferramenta prática para medir a velocidade de objetos em movimento.<p/>
 <h1>Componentes Utilizados 🛠️</h1>
 <ul>
-<li>Arduino Uno: Microcontrolador principal que processa os dados do sensor e executa o código.</li>
+<li>ESP32: uma placa de desenvolvimento de hardware aberto que é baseada em um processador dual-core de 32 bits e possui 520 KB de memória flash.</li>
 <li>Sensor de Ultrassom HC-SR04:Sensor que mede a distância ao emitir pulsos ultrassônicos e calcular o tempo de retorno após refletirem em um objeto.</li>
 <li>Display LCD 16x2 com Interface I2C:usado para exibir os dados necessários. A interface I2C simplifica a conexão</li>
 <li>Jumpers, Protoboards e Resistores: Componentes necessários para conexão dos componentes</li>
@@ -16,7 +16,7 @@
 <p>O projeto SpeedSense inova ao monitorar corridas de Fórmula E em tempo real, utilizando Arduino Uno e sensor ultrassom HC-SR04 para medir velocidades com precisão. O objetivo futuro é transmitir esses dados instantaneamente para uma plataforma web, oferece uma experiência imersiva tanto para espectadores quanto para equipes. As equipes podem otimizar o desempenho com análises em tempo real, enquanto o público acessa informações detalhadas durante as corridas.</p>
 <h1>Links do Projeto<h1/>
 <ul>
-<li><p> <a href="https://wokwi.com/projects/400404912645105665">Wokwi<a/></p></li>
+<li><p> <a href="https://wokwi.com/projects/410401052764585985">Wokwi<a/></p></li>
 <li><p><a href="https://www.youtube.com/watch?v=vea-rexHjCs"> Video Explicativo <a/></p></li>
 </ul>
 <h1>Desenvolvedores 🤝</h1>
@@ -27,27 +27,27 @@
 <th>RM</th>
 </tr>
 <tr></tr>
-<td>Marcello</td>
-<td><a href="https://github.com/MarcelloFMoreira"><img src="https://avatars.githubusercontent.com/u/161846509?v=4" height="50" style="max-width: 100%;"></a></td>
+<td>Carolina</td>
+<td><a href="https://github.com/Linasferraz"></a></td>
 <td>RM557531</td>
 <tr>
 <td>Alexandre </td>
-<td><a href="https://github.com/alefaria577"><img src="https://avatars.githubusercontent.com/u/132949575?v=4" height="50" style="max-width: 100%;"></a></td>
+<td><a href="https://github.com/alefaria577"></a></td>
 <td>RM558270</td>
  </tr>
 <tr>
-<td>Luiz</td>
-<td><a href="https://github.com/luyz-gusta"><img src="https://avatars.githubusercontent.com/u/110852235?v=4" height="50" style="max-width: 100%;"></a></td>
+<td>Renato</td>
+<td><a href="https://github.com/RenatoFBabi"></a></td>
 <td>RM558358</td>
  </tr>
 <tr>
 <td>Milena</td>
-<td><a href="https://github.com/MilenaCodinhoto"><img src="https://avatars.githubusercontent.com/u/19381239?v=4" height="50" style="max-width: 100%;"></a></td>
+<td><a href="https://github.com/MilenaCodinhoto"></a></td>
 <td>RM554682</td>
  </tr>
  <tr>
 <td>Evellyn</td>
-<td><a href="https://github.com/evojeda"><img src="https://avatars.githubusercontent.com/u/162588593?v=4" height="50" style="max-width: 100%;"></a></td>
+<td><a href="https://github.com/evojeda"></a></td>
 <td>RM557929</td>
  </tr>
 </table>
