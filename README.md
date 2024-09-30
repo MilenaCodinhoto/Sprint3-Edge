@@ -17,7 +17,7 @@
 <h1>Links do Projeto<h1/>
 <ul>
 <li><p> <a href="https://wokwi.com/projects/410401052764585985">Wokwi<a/></p></li>
-<li><p><a href="https://www.youtube.com/watch?v=vea-rexHjCs"> Video Explicativo <a/></p></li>
+<li><p><a href="https://youtu.be/GgCMbqwymS8?si=sFx3MdheYlAv8_YZ"> Video Explicativo <a/></p></li>
 </ul>
 <h1>Desenvolvedores 🤝</h1>
 <table>
