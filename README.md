@@ -36,11 +36,6 @@
 <td>RM558270</td>
  </tr>
 <tr>
-<td>Renato</td>
-<td><a href="https://github.com/RenatoFBabi"></a></td>
-<td>RM558358</td>
- </tr>
-<tr>
 <td>Milena</td>
 <td><a href="https://github.com/MilenaCodinhoto"></a></td>
 <td>RM554682</td>
